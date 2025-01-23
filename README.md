@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Guilherme👋
 
-<!--
-**guilherme-hap/guilherme-hap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I love coding in various languages, especially **Java**, **Python**, and **SQL**.
+- 🌱 Currently, I'm deep diving into **Java** and **Spring**.
+- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+- 📫 How to reach me: [henrique.guilhermexv@gmail.com](mailto:henrique.guilhermexv@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** Java, Python, SQL, JavaScript
+- **Web Technologies:** HTML, CSS, Angular, Flask
+- **Databases:** MySQL, Oracle
+- **Others:** Git, Windows, SCRUM
+
+## 📈 GitHub Stats
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-hap&show_icons=true&theme=radical)
+
+## 🌟 Top Repositories
+[![sql-database-specialist](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-hap&repo=sql-database-specialist&theme=radical)](https://github.com/guilherme-hap/sql-database-specialist)
+[![python-developer](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-hap&repo=python-developer&theme=radical)](https://github.com/guilherme-hap/python-developer)
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-araujo-pereira-437b88271/)
